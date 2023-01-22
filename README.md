@@ -5,8 +5,8 @@ CSA0707
 3. Bus topology
 4. Ring topology
 5. Mesh topology
-6. Tree topology
-7. Hybrid topology
+6. 6 computers connected to a hub 
+7. Manager and client confidential information 
 8. 10 systems connected to one device
 9. LLDP
 10. CSMA/CD & CSMA/CA
